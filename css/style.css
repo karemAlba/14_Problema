@@ -1,0 +1,112 @@
+.banner{
+	background-image: url("../img/banner.jpg") ;
+	height: 600px;
+	 
+}
+
+form{
+	margin-top: 40px;
+}
+
+.imgban{
+	width: 90px;
+	height: 90px;
+	margin-top: 330px;	
+	margin-left: 370px;
+}
+
+.texto{
+	margin-top: 40px;
+}
+
+hr{
+	width: 300px;
+}
+.verde{
+	border: 2px solid #89C167;
+	border-radius: 4px;
+	width: 60px;
+	color: #89C167;
+}
+
+.separa{
+	margin-top: 15px;
+	color: white;
+}
+.separa2{
+	margin-top: 15px;
+}
+
+h1{
+	font-size: 40px;
+}
+
+.botona{
+	background-color: yellow;
+	border: none;
+	color: white;
+	padding: 10px;
+	border-radius: 5px;
+	position: relative;
+	box-sizing: border-box;
+	transition: all 500ms ease;
+	cursor: pointer;
+}
+
+.botonn{
+	background-color: orange;
+	border: none;
+	color: white;
+	padding: 10px;
+	border-radius: 5px;
+	position: relative;
+	box-sizing: border-box;
+	transition: all 500ms ease;
+	width: 150px;
+	cursor: pointer;
+}
+.botonn1{
+	background-color: orange;
+	border: none;
+	color: white;
+	padding: 10px;
+	border-radius: 5px;
+	position: relative;
+	box-sizing: border-box;
+	transition: all 500ms ease;
+	width: 150px;
+	height: 70px;
+	cursor: pointer;
+}
+
+.seleccion{
+	width: 150px;
+	height: 200px;
+	margin-top: 30px;
+	margin-left: 10px;
+	margin-bottom: 30px;
+}
+
+.amarillo{
+	background-color: yellow;
+
+}
+
+
+.separahr{
+	margin-top: 40px;
+}
+
+.naranja{
+	color: orange;
+}
+
+.finalimg{
+	width: 244px;
+	height: 349px;
+}
+
+.footer{
+	background-color: #ECF1E9;
+	color:white;
+}
